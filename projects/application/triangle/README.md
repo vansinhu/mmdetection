@@ -11,3 +11,4 @@ unzip Triangle_140_Keypoint_Dataset.zip
 cd path/to/mmdetection
 python tools/train.py projects/application/triangle/rtmdet_l-300e_coco.py
 ```
+
