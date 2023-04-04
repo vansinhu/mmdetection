@@ -10,5 +10,6 @@ unzip Triangle_140_Keypoint_Dataset.zip
 ```shell
 cd path/to/mmdetection
 python tools/train.py projects/application/triangle/faster-rcnn_r50_fpn_1x_coco.py
-```
 
+python tools/train.py projects/application/triangle/rtmdet_tiny-300e_coco.py
+```
